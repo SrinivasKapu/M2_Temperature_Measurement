@@ -7,3 +7,8 @@
 # Low Level Requirements
 
 ![BLLR](https://user-images.githubusercontent.com/94234616/144256780-1ea64eb0-740f-4c17-9f6c-9570ab5ac40f.png)
+
+# Block Diagram
+![BD](https://user-images.githubusercontent.com/94234616/144257498-b42d0bcf-ab4b-43b0-a53c-4a6c7bb6fdab.png)
+
+
