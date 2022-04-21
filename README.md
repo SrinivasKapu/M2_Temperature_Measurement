@@ -13,3 +13,6 @@
 [![Build_CI - Linux](https://github.com/SrinivasKapu/M2_Temperature_Measurement/actions/workflows/Linux.yml/badge.svg)](https://github.com/SrinivasKapu/M2_Temperature_Measurement/actions/workflows/Linux.yml)
 
 [![Bulid CI - windows](https://github.com/SrinivasKapu/M2_Temperature_Measurement/actions/workflows/Windows.yml/badge.svg)](https://github.com/SrinivasKapu/M2_Temperature_Measurement/actions/workflows/Windows.yml)
+
+
+[![Git Inspector](https://github.com/SrinivasKapu/M2_Temperature_Measurement/actions/workflows/Git%20inspector.yml/badge.svg)](https://github.com/SrinivasKapu/M2_Temperature_Measurement/actions/workflows/Git%20inspector.yml)
