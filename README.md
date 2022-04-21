@@ -9,3 +9,5 @@
 
 
 [![Code Quality - Cppcheck](https://github.com/SrinivasKapu/M2_Temperature_Measurement/actions/workflows/Cpp.yml/badge.svg)](https://github.com/SrinivasKapu/M2_Temperature_Measurement/actions/workflows/Cpp.yml)
+
+[![Build_CI - Linux](https://github.com/SrinivasKapu/M2_Temperature_Measurement/actions/workflows/Linux.yml/badge.svg)](https://github.com/SrinivasKapu/M2_Temperature_Measurement/actions/workflows/Linux.yml)
