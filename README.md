@@ -26,7 +26,7 @@ Folder             | Description
 `3_Implementation` | All required codes and documentation
 `4_TestCases`      | low and High level Requirements
 `5_Report`         | Report all the details about project
-`6_Output`         | Documents with simulation Images
+`6_Output`         |  simulation Image & Video
 
 ## Learning Platforms
 * Youtube
