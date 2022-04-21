@@ -16,3 +16,19 @@
 
 
 [![Git Inspector](https://github.com/SrinivasKapu/M2_Temperature_Measurement/actions/workflows/Git%20inspector.yml/badge.svg)](https://github.com/SrinivasKapu/M2_Temperature_Measurement/actions/workflows/Git%20inspector.yml)
+
+## Folder Structure
+Folder             | Description
+-------------------| -----------------------------------------
+`0_Abstract`       | About Project
+`1_Requirements`   | Documents containing requirements 
+`2_Design`         | Documents specifying design details of circuit
+`3_Implementation` | All required codes and documentation
+`4_TestCases`      | low and High level Requirements
+`5_Report`         | Report all the details about project
+`6_Output`         | Documents with simulation Images
+
+## Learning Platforms
+* Youtube
+* future skills
+* geeks for geeks
